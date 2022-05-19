@@ -15,7 +15,6 @@
         </div>
         <div v-else>
             <CrudList/>
-            12345
         </div>
     </div>
 </template>

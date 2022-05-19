@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mdi/js": "^6.6.96",
+    "material-design-icons": "^3.0.1",
+    "material-icons": "^1.10.9"
+  }
+}
